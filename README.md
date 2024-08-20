@@ -1,6 +1,6 @@
 # Relatório de Otimização da Cadeia de Suprimentos
 
-**Alocação das Demandas**
+## **Alocação das Demandas**
 
 - CD1:
   - Loja 1: 150 unidades (Custo: R$ 750,00)
@@ -12,11 +12,11 @@
   - Loja 6: 350 unidades (Custo: R$ 1925,00)
   - Loja 7: 220 unidades (Custo: R$ 880,00)
 
-**Cálculo dos Custos Totais**
+## **Cálculo dos Custos Totais**
 
 - Custo Total de Transporte: R$ 7.665,00
 
-**Simulação de Pico de Demanda**
+## **Simulação de Pico de Demanda**
 
 - Novo Cálculo de Demandas:
   - Loja 1: 180 unidades
@@ -26,13 +26,13 @@
   - Capacidade do CD1 excedida em 100 unidades.
   - Loja 10 não pode ser atendida pelo CD3 devido à capacidade excedida.
 
-**Estratégia de Expansão**
+## **Estratégia de Expansão**
 
 - Proposta:
   - Aumentar a capacidade do CD1 em 200 unidades.
   - Custo estimado de expansão: R$ 50.000,00.
   - Benefícios: Atende ao aumento de demanda com menor custo adicional de transporte.
 
-**Conclusão**
+## **Conclusão**
 
 A estratégia proposta permitirá à empresa atender ao aumento de demanda, mantendo os custos de transporte relativamente baixos.
